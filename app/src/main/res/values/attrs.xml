@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Canvas">
+        <attr name="backgroundColor1" format="color" />
+        <attr name="paintColor1" format="color" />
+        <attr name="strokeWidth1" format="float" />
+    </declare-styleable>
+
+</resources>
